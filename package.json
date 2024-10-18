@@ -1,0 +1,11 @@
+{
+  "name": "tdd-assignment",
+  "version": "1.0.0",
+  "description": "tdd assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shital Pimpale",
+  "license": "ISC"
+}
